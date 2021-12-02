@@ -1,3 +1,5 @@
 # AdventOfCode2021
 
-Made in JS
+Javascript project for December
+
+https://adventofcode.com/2021
