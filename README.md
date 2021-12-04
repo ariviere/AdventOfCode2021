@@ -1,5 +1,5 @@
-# AdventOfCode2021
+# Advent Of Code 2021
 
-Javascript project for December
+__Javascript__ 
 
 https://adventofcode.com/2021
